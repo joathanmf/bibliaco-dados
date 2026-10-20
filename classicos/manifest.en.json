@@ -1,0 +1,172 @@
+{
+  "format": 1,
+  "generated_at": "2026-10-19",
+  "works": [
+    {
+      "id": "matthew-henry",
+      "author": "Matthew Henry",
+      "title": "Commentary on the Whole Bible",
+      "years": "1706-1721",
+      "language": "en",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "license_notice": null,
+      "license_notes": null,
+      "website": "https://en.wikipedia.org/wiki/Matthew_Henry",
+      "source": "https://bible.helloao.org/api/c/matthew-henry/books.json",
+      "source_sha256": "ad2850450a1e5c0546c275f4bd09b9325ae47424d83311120ca7ced5724c4bc8",
+      "retrieved_at": "2026-10-19",
+      "files": {
+        "en": {
+          "file": "matthew-henry.en.jsonl.gz",
+          "sha256": "53c1f9a53ebb9a76441bb1eb70f8e45b5f53561a19e74a2d76a319160fcdb93b",
+          "bytes": 11404122,
+          "sections": 5343,
+          "words": 6097530
+        }
+      },
+      "ignored": [
+        "ISA 67: capítulo ausente na fonte",
+        "ISA 68: capítulo fora do cânon, com texto"
+      ]
+    },
+    {
+      "id": "john-gill",
+      "author": "John Gill",
+      "title": "Exposition of the Old and New Testaments",
+      "years": "1746-1763",
+      "language": "en",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "license_notice": null,
+      "license_notes": null,
+      "website": "https://en.wikipedia.org/wiki/John_Gill_(theologian)",
+      "source": "https://bible.helloao.org/api/c/john-gill/books.json",
+      "source_sha256": "f6fcfd6c3a726dc834cfaf1ae1cd0bf49bffb88c1246ac3500699e8af7be71a5",
+      "retrieved_at": "2026-10-19",
+      "files": {
+        "en": {
+          "file": "john-gill.en.jsonl.gz",
+          "sha256": "9113eed80eda786f92a3f785261d2823a53d121bcd6f4ac56a20aa1e8766428c",
+          "bytes": 15847848,
+          "sections": 29773,
+          "words": 8596399
+        }
+      },
+      "ignored": []
+    },
+    {
+      "id": "adam-clarke",
+      "author": "Adam Clarke",
+      "title": "Commentary and Critical Notes on the Holy Bible",
+      "years": "1810-1826",
+      "language": "en",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "license_notice": null,
+      "license_notes": null,
+      "website": "https://en.wikipedia.org/wiki/Adam_Clarke",
+      "source": "https://bible.helloao.org/api/c/adam-clarke/books.json",
+      "source_sha256": "92e28c9363c876d215e296f2fe04abb3ab7e34a2aacebdf06bd62ae79c6e3dba",
+      "retrieved_at": "2026-10-19",
+      "files": {
+        "en": {
+          "file": "adam-clarke.en.jsonl.gz",
+          "sha256": "4a4e87c6f79a07f924efedcec6ae3039cc4c2dd9a4cd68b87aec3d4e69051dc4",
+          "bytes": 5178760,
+          "sections": 14205,
+          "words": 2566597
+        }
+      },
+      "ignored": []
+    },
+    {
+      "id": "jamieson-fausset-brown",
+      "author": "Robert Jamieson, A. R. Fausset, David Brown",
+      "title": "Commentary Critical and Explanatory on the Whole Bible",
+      "years": "1871",
+      "language": "en",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "license_notice": null,
+      "license_notes": null,
+      "website": "https://en.wikipedia.org/wiki/Jamieson-Fausset-Brown_Bible_Commentary",
+      "source": "https://bible.helloao.org/api/c/jamieson-fausset-brown/books.json",
+      "source_sha256": "db3d4c8b3c1f32ef9d1430a57392e02bda3a17aac1f9bbe398461de021a3cb13",
+      "retrieved_at": "2026-10-19",
+      "files": {
+        "en": {
+          "file": "jamieson-fausset-brown.en.jsonl.gz",
+          "sha256": "cce08d33a842716bf472ba0a7129856d4dde09e36ebfb795f5ffcefa91067dbf",
+          "bytes": 4300954,
+          "sections": 18299,
+          "words": 1999744
+        }
+      },
+      "ignored": [
+        "PSA 146: capítulo ausente na fonte",
+        "MRK 15: capítulo ausente na fonte"
+      ]
+    },
+    {
+      "id": "keil-delitzsch",
+      "author": "Carl Friedrich Keil, Franz Delitzsch",
+      "title": "Biblical Commentary on the Old Testament",
+      "years": "1857-1878",
+      "language": "en",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "license_notice": null,
+      "license_notes": null,
+      "website": "https://worthy.bible/commentaries/keil-delitzsch-commentary",
+      "source": "https://bible.helloao.org/api/c/keil-delitzsch/books.json",
+      "source_sha256": "bb5cc0f9cfe0a93b3c903bb6972c6bc8c4e9f2bd3be6c2a6d276737cf9c5edce",
+      "retrieved_at": "2026-10-19",
+      "files": {
+        "en": {
+          "file": "keil-delitzsch.en.jsonl.gz",
+          "sha256": "fb643aed328e936b25df6a19e042ccabe56e68213188ab2e901b0c9666149fb5",
+          "bytes": 8666342,
+          "sections": 6946,
+          "words": 4206898
+        }
+      },
+      "ignored": [
+        "EXO 37: capítulo ausente na fonte",
+        "EXO 38: capítulo ausente na fonte",
+        "NUM 17: capítulo ausente na fonte",
+        "JOB 25: capítulo ausente na fonte",
+        "PSA 101: capítulo ausente na fonte",
+        "PSA 117: capítulo ausente na fonte",
+        "PSA 131: capítulo ausente na fonte",
+        "PSA 133: capítulo ausente na fonte",
+        "EZK 4: capítulo ausente na fonte",
+        "EZK 5: capítulo ausente na fonte",
+        "EZK 36: capítulo ausente na fonte",
+        "DAN 6:29: versículo fora do cânon"
+      ]
+    },
+    {
+      "id": "john-calvin",
+      "author": "João Calvino (John Calvin)",
+      "title": "Calvin's Commentaries (tradução inglesa da Calvin Translation Society)",
+      "years": "1844-1856",
+      "language": "en",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "license_notice": null,
+      "license_notes": "Calvin Translation Society English texts. CCEL identifies its electronic Calvin commentaries as public domain and usable for any purpose.",
+      "website": "https://www.ccel.org/ccel/calvin/commentaries.html",
+      "source": "https://bible.helloao.org/api/c/john-calvin/books.json",
+      "source_sha256": "ce747f130251d4b38a651090242d0a492fe965b19d689f752b4e0c367b5044a6",
+      "retrieved_at": "2026-10-19",
+      "files": {
+        "en": {
+          "file": "john-calvin.en.jsonl.gz",
+          "sha256": "a18a3d0f58098883c89dee8e12b4d851428be9bfb9c0cd290baf5b3fef96955d",
+          "bytes": 16303750,
+          "sections": 7316,
+          "words": 8369341
+        }
+      },
+      "ignored": [
+        "GEN 33:21: versículo fora do cânon",
+        "LEV 12: capítulo ausente na fonte"
+      ]
+    }
+  ]
+}
